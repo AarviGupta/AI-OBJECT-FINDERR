@@ -1,0 +1,44 @@
+body{
+    background-size:cover ;
+}
+.heading{
+font-size:20px;
+width:100%;
+margin:0px;
+}
+p{
+    font-size:17px;
+}
+#start{
+    font-size:18px;
+}
+#number_of_objects,#status{
+    font-size:18px;
+}
+.footer{
+position:fixed;
+color:black;
+background-color:cornsilk;
+width:100%;
+text-align: center;
+bottom:0;
+line-height:3;
+}
+canvas{
+    border:5px solid black;
+    border-radius:20px;
+    margin-bottom:60px;
+    margin-top:190px;
+    box-shadow:5px 10px 10px grey;
+    margin-bottom:100px;
+}
+h3{
+    color:white;
+}
+#input{
+    width:400px;
+    height:28px;
+    border-radius:10px;
+    border-color:black;
+    box-shadow:2px 2px 18px grey ;
+}
